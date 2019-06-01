@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="tv1">Este</string>
+    <string name="tv2">es</string>
+    <string name="tv3">un</string>
+    <string name="tv4">texto</string>
+    <string name="tv5">idioma</string>
+    <string name="tv6">español</string>
+</resources>

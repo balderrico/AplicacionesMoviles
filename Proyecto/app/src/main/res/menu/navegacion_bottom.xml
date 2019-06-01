@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nave_inicio"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Inicio"/>
+
+
+    <item
+
+        android:id="@+id/nave_formulario"
+        android:icon="@drawable/ic_person_add_black_24dp"
+        android:title="Formulario"/>
+
+    <item
+
+        android:id="@+id/nave_detalles"
+        android:icon="@drawable/ic_info_black_24dp"
+        android:title="Formulario"/>
+
+
+    <item
+        android:id="@+id/nave_registros"
+        android:icon="@drawable/ic_supervisor_account_black_24dp"
+        android:title="Registros"/>
+
+
+
+
+
+</menu>
